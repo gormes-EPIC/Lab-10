@@ -216,10 +216,8 @@ chili
 spoon
 knife
 plate
-bowl
 couch
 stool
-sofa
 shelf
 clock
 radio
@@ -272,11 +270,9 @@ armor
 boots
 cloak
 rings
-gems
 mines
 oreos
 steel
-copper
 brass
 alums
 fiber
@@ -329,7 +325,6 @@ jumps
 hopes
 walks
 rides
-drives
 train
 plane
 truck
